@@ -36,13 +36,12 @@ Each file is named using the pattern `<problem-number>-<problem-title>.cpp` for 
 | 🔴 Hard    | _coming soon_   |
 | **Total**  | **_coming soon_** |
 
-*(Update these counts as you add solutions — a quick `ls Easy | wc -l` style check per folder works well.)*
 
 ## 🛠️ Tech Stack
 
 - **Language:** C++
 - **Compiler:** GCC / g++
-- IDE: VS Code (or your preferred environment)
+- **IDE**: VS Code/Dev C++ (or your preferred environment)
 
 ## 🚀 How to Use
 
